@@ -1,21 +1,21 @@
-## Portfolio
+# Portfolio
+
+## Professional Projects
+
+### [Pathable Event Management Platform](/pathable)
+
+<img src="images/pathable.png"/>
 
 ---
 
-### Professional Projects
+### [YNAB Personal Finance Management](/ynab)
 
-[Pathable Event Management Platform](/pathable)
-<img src="images/pathable-event-apps.png"/>
-
----
-
-[YNAB Personal Finance Management](/ynab)
 <img src="images/ynab.png"/>
 
 ---
 
-### Personal Projects
+## Personal Projects
 
-- [Idreesia Custom ERP](/idreesia-erp)
+### [Idreesia ERP](/idreesia-erp)
 
 ---

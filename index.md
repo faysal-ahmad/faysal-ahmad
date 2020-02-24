@@ -1,6 +1,8 @@
-# Portfolio
+# Projects Portfolio
 
-## Professional Projects
+### [Idreesia ERP](github.com/faysal-ahmad/idreesia-erp)
+
+---
 
 ### [Pathable Event Management Platform](/pathable)
 
@@ -15,7 +17,3 @@
 ---
 
 ## Personal Projects
-
-### [Idreesia ERP](/idreesia-erp)
-
----
